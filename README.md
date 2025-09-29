@@ -40,17 +40,17 @@ The aim is to **process, explore, and analyze these data using statistical metho
 ## Repository Structure
 
 This repository contains:
-'''
+
 FVC_Tunisia/
 ├── script_python_opti.py # Optimized analysis script
 ├── TAPE_Survey_Tunisia_Scores_19-09-2025.xlsx # Dataset file
-'''
-'''graphs_output/
+
+graphs_output/
 ├── gouv_menages_population.png
 ├── gouv_travailleurs_agricoles.png
 ├── muni_nombre_menages.png
 ├── muni_travailleurs_agricoles.png
-'''
+
 ---
 
 ## Graph Outputs
