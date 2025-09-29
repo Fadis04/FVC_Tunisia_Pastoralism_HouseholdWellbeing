@@ -7,7 +7,7 @@ The main objective is to examine the interactions between **pastoralism, pasture
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0873711d-f3b0-4f65-a873-398ab190d413" />
 
----
+--- 
 
 ## Study Regions
 
