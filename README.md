@@ -40,6 +40,7 @@ The aim is to **process, explore, and analyze these data using statistical metho
 ## Repository Structure
 
 This repository contains:
+```
 FVC_Tunisia_Analysis/
 │
 ├── FVC_Tunisia/
@@ -53,7 +54,7 @@ FVC_Tunisia_Analysis/
 │   ├── muni_travailleurs_agricoles.png
 │
 └── README.md                                      # Project description
-
+```
 
 ---
 
