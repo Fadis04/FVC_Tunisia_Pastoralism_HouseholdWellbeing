@@ -73,9 +73,8 @@ In the Google Colab environment, these outputs are located under:
 
 You can view and run the full analysis interactively using Google Colab.  
 Access the notebook here:  
-[Open in Google Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID)  
+[Open in Google Colab](https://colab.research.google.com/drive/1or13tCV33N9cP2M3R-R1WLOQ2CkQzkE2)  
 
-*(Replace `YOUR_NOTEBOOK_ID` with the actual ID of your Colab notebook)*
 
 ---
 
