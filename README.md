@@ -5,6 +5,8 @@
 This project is part of the **FVC Survey** conducted by the Association for Food Security and Sustainable Agriculture in collaboration with FAO.  
 The main objective is to examine the interactions between **pastoralism, pasture management, and rural household well-being** through a statistical approach applied to two contrasting regions of Tunisia.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0873711d-f3b0-4f65-a873-398ab190d413" />
+
 ---
 
 ## Study Regions
